@@ -4,3 +4,8 @@ import turtle
 #ház alap és ajtó barnus
 
 turtle.left(90)
+
+turtle.forward(100)
+
+
+
